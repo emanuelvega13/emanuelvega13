@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Emanuel Vega
+- 👀 I’m interested in, food, IT, surfing, beach and code
+- 🌱 I’m currently learning SAP ABAP ADT
+- 💞️ I’m looking to collaborate on SAP projects
+- 📫 How to reach me, using my email: emanuel.vegag@gmail.com
